@@ -1,7 +1,7 @@
 # Phase 1 – Definition and Planning
 
 ## 📌 Project Title:
-**Personal Bio Page**
+**Bio Blast**
 
 ## 👥 Team Members:
 - Eguzoro Chikadibia  
