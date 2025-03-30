@@ -137,5 +137,5 @@ Optional future enhancements may include mobile responsiveness and adding JavaSc
 ---
 
 ## 🖼️ UI Prototype
-...
+https://www.figma.com/design/itEsEZUVmcnLmRTM3RnHMv/Untitled?node-id=0-1&p=f&t=oRt9S9UX5jfzklwx-0 
 
