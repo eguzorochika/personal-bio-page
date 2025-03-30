@@ -116,3 +116,26 @@ Optional future enhancements may include mobile responsiveness and adding JavaSc
 | Hobbies           | ✅             | ✅                     | ✅                |
 
 ✅ = Uses actively | ❌ = View only | ⚠️ = Occasionally
+...
+## 🔄 Use Case: User Interaction Flow
+
+**Main Actor:** Visitor (User of the bio page)  
+**Goal:** To interact with and personalize the content on the bio page using CRUD operations.
+
+**Steps:**
+1. User lands on the bio page.
+2. Views default content: name, study groups, bio, quote, hobbies.
+3. Clicks "Edit Name" and updates it.
+4. Adds/removes study groups.
+5. Updates their short bio.
+6. Edits or changes their favorite quote.
+7. Adds or removes hobbies.
+8. All changes reflect in real time.
+
+**Outcome:** A fully personalized bio page.
+
+---
+
+## 🖼️ UI Prototype
+...
+
