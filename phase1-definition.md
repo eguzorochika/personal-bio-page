@@ -117,24 +117,60 @@ Optional future enhancements may include mobile responsiveness and adding JavaSc
 
 ✅ = Uses actively | ❌ = View only | ⚠️ = Occasionally
 ...
-## 🔄 Use Case: User Interaction Flow
+## 🔄 Use Case Descriptions
 
-**Main Actor:** Visitor (User of the bio page)  
-**Goal:** To interact with and personalize the content on the bio page using CRUD operations.
-
+### 🧑‍💼 Use Case 1: Edit Name
+**Actor:** User  
+**Goal:** Personalize the bio page with their name  
 **Steps:**
-1. User lands on the bio page.
-2. Views default content: name, study groups, bio, quote, hobbies.
-3. Clicks "Edit Name" and updates it.
-4. Adds/removes study groups.
-5. Updates their short bio.
-6. Edits or changes their favorite quote.
-7. Adds or removes hobbies.
-8. All changes reflect in real time.
-
-**Outcome:** A fully personalized bio page.
+1. User clicks the “Edit Name” button
+2. A prompt or input field appears
+3. User types in a new name
+4. The page updates to show the new name
 
 ---
+
+### 🧑‍🎓 Use Case 2: Manage Study Groups
+**Actor:** User  
+**Goal:** Add or remove study groups they’re part of  
+**Steps:**
+1. User enters a study group name into the input field
+2. Clicks “Add”
+3. Group appears in a list with Edit/Delete options
+4. User can click “Edit” to rename or “Delete” to remove it
+
+---
+
+### 📝 Use Case 3: Update Short Bio
+**Actor:** User  
+**Goal:** Describe themselves briefly  
+**Steps:**
+1. User clicks “Edit Bio”
+2. A text box appears
+3. User types a new bio
+4. Page updates with the new bio
+
+---
+
+### 💬 Use Case 4: Change Favorite Quote
+**Actor:** User  
+**Goal:** Update or personalize their quote  
+**Steps:**
+1. User clicks “Edit Quote”
+2. Prompt or input appears
+3. User enters a new quote
+4. Page displays updated quote
+
+---
+
+### 🎯 Use Case 5: Manage Hobbies
+**Actor:** User  
+**Goal:** Add or remove hobbies to showcase interests  
+**Steps:**
+1. User enters a hobby in the input box
+2. Clicks “Add”
+3. Hobby appears in the list
+4. User can click “Delete” to remove it
 
 ## 🖼️ UI Prototype
 https://www.figma.com/design/itEsEZUVmcnLmRTM3RnHMv/Untitled?node-id=0-1&p=f&t=oRt9S9UX5jfzklwx-0 
